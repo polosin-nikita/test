@@ -40,7 +40,7 @@ public class Santa {
 
         Santa santa = new Santa();
         santa.setX(5);
-        santa.setX(10);
+        santa.setX(2);
         System.out.println(santa.getX());
         santa.setX("4");
         System.out.println(santa.getX());
