@@ -1,0 +1,13 @@
+*.class
+
+#Mobile Tools for Java (J2ME)
+.mtj.tmp/
+#Package files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs? see
+hs_err_pid*
+*.iml
+.idea/*
