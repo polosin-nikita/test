@@ -45,6 +45,7 @@ public class Santa {
         System.out.println(santa.getX());
         santa.setX("7f");
         System.out.println(santa.getX());
+        System.out.println("Master");
 
 
     }
